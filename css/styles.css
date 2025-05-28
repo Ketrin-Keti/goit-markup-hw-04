@@ -42,7 +42,7 @@ p {
 }
 .header-styles {
   width: 100%;
-  max-width: 1158px;
+  /* max-width: 1158px; */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -649,7 +649,7 @@ p {
   justify-content: center;
 }
 .social-icon {
-  fill: #fff;
+  fill: var(--svg-color);
   width: 24px;
   height: 24px;
 }
