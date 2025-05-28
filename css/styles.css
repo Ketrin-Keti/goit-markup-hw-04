@@ -636,7 +636,6 @@ p {
   justify-content: center;
   background-color: var(--accent-color);
   border-radius: 50%;
-  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .foototer-social-link {
@@ -647,6 +646,7 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .social-icon {
   fill: var(--svg-color);
