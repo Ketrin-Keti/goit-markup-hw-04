@@ -398,7 +398,6 @@ p {
   height: 40px;
   background-color: #4d5ae5;
   border-radius: 50%;
-  
 }
 .social-link {
   width: 16px;
@@ -553,7 +552,7 @@ p {
 .foter-content {
   display: flex;
   align-items: baseline;
-  flex-wrap: wrap
+  flex-wrap: wrap;
   max-width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
@@ -564,7 +563,7 @@ p {
   align-items: baseline;
   max-width: 264px;
   padding: 0 16px;
-  flex-wrap: wrap
+  flex-wrap: wrap;
   gap: 40px;
   flex-direction: row;
   text-align: left;
