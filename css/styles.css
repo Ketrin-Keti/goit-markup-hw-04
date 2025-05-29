@@ -530,7 +530,7 @@ p {
   justify-content: center;
 }
 
-.portfolio-thumb:hover .portfolio-text {
+.our-portfolio-item:hover .portfolio-text {
   transform: translateY(0%);
 }
 
